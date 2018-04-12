@@ -1,4 +1,4 @@
-
+#cr Markus Löcher, Max Philipp, HWR Berlin
 library(shiny)
 
 shinyUI(fluidPage(

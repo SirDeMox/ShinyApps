@@ -1,4 +1,4 @@
-#parent distribution on landing page
+#cr Markus Löcher, Max Philipp, HWR Berlin
 
 library(shiny)
 library(ggplot2, quietly=TRUE)
